@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Follow URL with Today's Date</title>
+</head>
+<body>
+
+<h1>Follow URL with Today's Date</h1>
+
+<p>Click the link below to follow the URL with today's date:</p>
+
+<a id="urlLink" href="#" target="_blank">Follow URL</a>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Get today's date
+  const today = new Date();
+  const formattedDate = today.toISOString().slice(0, 10);
+  
+  // Create the URL with today's date
+  const baseURL = 'http://martyhall.com/';
+  const urlWithDate = `http://martyhall.com/`;
+  
+  // Set the href attribute of the anchor element
+  const urlLink = document.getElementById('urlLink');
+  urlLink.href = urlWithDate;
+});
+</script>
+
+</body>
+</html>

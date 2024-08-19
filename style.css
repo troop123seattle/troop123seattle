@@ -1,0 +1,374 @@
+
+
+Body {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 14px;
+	line-height: 18px;
+}
+p  {
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #000000;
+	margin:4px 0px 6px 0px;
+	line-height: 16px;
+}
+a  { font-family: "Segoe UI Semibold", Verdana, Tahoma, Arial; color: #0066cc; text-decoration: none;}
+a:visited  { color: #0066cc; text-decoration: none; }
+a:hover  { color: #3399ff; text-decoration: underline; }
+
+.hometitle {
+	font-family: "Segoe UI Semibold", Verdana, Tahoma, Arial; color: #000000; font-size: 2em; font-weight: normal; line-height: 24px; margin:0px 0px 2px 0px;
+}
+
+#project {
+    padding-top: 6px;
+}
+#project2 {
+    padding-top: 6px;
+}
+#project3 {
+    padding-top: 6px;
+}
+
+.worktitle { font-family: Georgia, "Times New Roman", serif; font-size: 2em; color:#c8524d; text-decoration: none; line-height: 1.8em;}
+.abouttitle { font-family: Georgia, "Times New Roman", serif; font-size: 2em; color: rgb(255, 38, 139); text-decoration: none; line-height: 1.8em;}
+
+a.hometitle  { font-family: Georgia, "Times New Roman", serif; font-size: 0.75em; color: rgb(255, 38, 139); text-decoration: none; line-height: 1.8em;}
+a.hometitle:visited  { color: rgb(255, 38, 139); text-decoration: none; }
+a.hometitle:hover  { color: rgb(255, 38, 139); text-decoration: underline; }
+238, 108, 4
+.myquotehome{
+	font-family: Georgia, "Times New Roman", serif;	color: #333333;	font-size: 16px; font-weight: normal; 
+    line-height: 24px; margin:0px 0px 0px 0px; font-style : normal;
+}
+
+.myquotelist {
+	font-family: Georgia, "Times New Roman", serif;
+	color: #333333;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+    padding-bottom:10px;
+	font-style : normal;
+}
+
+a.myquotehome{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(255, 38, 139);
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+a.myquotehome:visited{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(255, 38, 139);
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+a.myquotehome:hover{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(255, 38, 139);
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+
+
+.newstitle {
+	font-family: Georgia, "Times New Roman", serif; color: #cc0000; font-size: 20px; font-weight: normal; line-height: 24px; margin:0px 0px 2px 0px;
+}
+
+a.newstitle:link {
+	color: #cc0000;
+}
+a.newstitle:vistied {
+	font-family: Georgia, "Times New Roman", serif; color: #cc0000; font-size: 20px; font-weight: normal; line-height: 24px; margin:0px 0px 2px 0px;
+}
+a.newstitle:hover {
+	font-family: Georgia, "Times New Roman", serif; color: #cc0000; text-decoration: underline; font-size: 20px; font-weight: normal; line-height: 24px; margin:0px 0px 2px 0px;
+}
+.newsquote{
+	font-family: Georgia, "Times New Roman", serif;
+	color: #333333;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : italic;
+}
+.myquote{
+	font-family: Georgia, "Times New Roman", serif;
+	color: #333333;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+a.myquote{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(33, 94, 185);
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+a.myquote:visited{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(33, 94, 185);
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+a.myquote:hover{
+	font-family: Georgia, "Times New Roman", serif;
+	color: rgb(33, 94, 185);
+	font-size: 16px;
+	font-weight: normal;
+	text-decoration: underline;
+	line-height: 24px;
+	margin:0px 0px 0px 0px;
+	font-style : normal;
+}
+
+.newsauthor{
+	font-family: Georgia, "Times New Roman", serif;
+	color: #666666;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 14px;
+	margin:0px 0px 8px 0px;
+	font-style : normal;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+a.newsauthor {
+    color: rgb(33, 94, 185);
+}
+a.newsauthor:visited {
+    color: rgb(33, 94, 185);
+}
+
+a.newsauthor:hover {
+    color: rgb(33, 94, 185);
+}
+
+img.inline {
+    width:100%;
+    padding-top:5px;
+    padding-bottom:15px;
+}
+
+img.inline:hover {
+
+}
+
+img.hover-shadow {
+  width:100%;
+  margin-top:5px;
+  margin-bottom:15px;
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.red {	font-size: 14px; font-family: "Segoe UI Semibold", Verdana, Tahoma, Arial; color: #cc0000; text-decoration: none;  line-height: 32px; }
+
+td {
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+H1  {
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 24px;
+	margin:1px 0px 0px 0px;
+	letter-spacing : 1;
+}
+
+H2  {
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #000000;
+	font-size: 0.8em;
+	font-weight: bold;
+	line-height: 12px;
+    padding-top: 12px;
+	margin:0px 0px 0px 0px;
+	letter-spacing : 1px;
+}
+
+H3  { 
+	font-family: "Segoe UI Semibold", Verdana, Tahoma, Arial; 
+	color: #333333; 
+	font-size: 18px; 
+	font-weight: normal; 
+	line-height: 22px; 
+	margin:0px 0px 10px 0px; 
+}
+H3 a  {
+	color: #0066CC;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: normal;
+	padding: 10px;
+	margin-left:10px;
+	width: 600px;
+}
+H3 a:visited  { color: #0066CC;}
+H3 a:hover   {
+	color: #3399FF;
+	text-decoration: none;
+	background: #EAF8FF;
+	border: 1px solid #74e2ff;
+	padding: 9px;
+	background-image: url(white_gradient.png);
+}
+
+
+/* Lightbox css */
+
+.row > .column {
+  padding: 0 8px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Create four equal columns that floats next to eachother */
+.column {
+  float: left;
+  width: 8%;
+  padding-right: 2%;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 890;
+  padding-top: calc( 100vh *0.07 );
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 80%;
+  max-width: 1200px;
+  animation-name: zoom;
+  animation-duration: 0.9s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: calc( 100vh *0.05 );
+  right: calc( 100vh *0.05 );;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Hide the slides by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: calc( 100vh * 0.35 );
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Caption text */
+.caption-container {
+  text-align: center;
+  padding: 2px 16px;
+  color: white;
+}
+
+img.demo {
+  opacity: 0.6;
+  width: 100%;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
